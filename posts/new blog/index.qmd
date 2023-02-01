@@ -1,0 +1,9 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2023-02-01"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+i created this by copying an old post into this new folder that i created in posts and now i can edit whats in there

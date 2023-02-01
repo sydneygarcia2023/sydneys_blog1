@@ -1,0 +1,25 @@
+---
+title: "About"
+image: cute_puppies_hero.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: sydneybgarcia.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Basic tipsfor this site:
+
+-   uarto.yml controls the top part of the wrbsite ike name and stuff in corner
+
+eg change title to "504 Blog"
+
+-   click on "about", save image to projet folder
+
+-   change github links using about.qmde
+
+-   change them

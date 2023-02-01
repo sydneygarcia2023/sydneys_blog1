@@ -1,0 +1,22 @@
+---
+title: "sydneys_blog1"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+-   quarto.yml controls the top part of the wrbsite ike name and stuff in corner
+
+eg change title to "504 Blog"
+
+-   click on "about", save image to projet folder
+
+-   change github links using about.qmde
+
+-   change them
